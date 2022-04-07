@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dilip057
+- 👋 Hi, I’m Dilip
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...javascript(angular, nodejs , reactjs)
 - 💞️ I’m looking to collaborate on ...javascript
