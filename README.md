@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dilip
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...javascript(angular, nodejs , reactjs)
+- 🌱 I’m currently learning ...javascript(nodejs)
 - 💞️ I’m looking to collaborate on ...javascript
 - 📫 How to reach me ...linkedin.com/in/prajapati-dilipkumar-12b53b236
 <!---
